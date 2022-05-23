@@ -5,10 +5,12 @@ Flow is on track to enable permissionless smart contract deployment **this summe
 ## Why is it important?
 
 ### More builders
-Developers building on Flow will be able to autonomously deploy and upgrade their smart contracts. This will bring about a new wave of developers who have been on the sidelines, waiting for this milestone. This means more applications and services on Flow, as well as composed on top of existing applications, enriching the Flow ecosystem. 
+Developers building on Flow will be able to autonomously deploy and upgrade their smart contracts. Permissionless smart contract deployment will attract new developers and more applications and services being built on Flow – whether net new, or composed on top of existing applications – enriching the Flow ecosystem as a whole.
 
 ### More security
-To enable this important milestone, [Cadence](https://docs.onflow.org/cadence/), Flow's native smart contract programming language, has been undergoing rigorous audits and improvements. With the release of Secure Cadence (see below), smart contracts will become even safer.
+To enable this important milestone, [Cadence](https://docs.onflow.org/cadence/), Flow's native smart contract programming language, has been undergoing[  rigorous audits and improvements](https://forum.onflow.org/t/breaking-changes-coming-with-secure-cadence-release/3052), split in 2 phases: Secure Cadence, and Stable Cadence.
+- **Secure Cadence**: focused on code-hardening and will enable the permissionless deployment of smart contracts on Mainnet. 
+- **Stable Cadence**: a future update that will focus on usability improvements (not required for permissionless smart contract deployment)
 
 ### More opportunities
 Permissionless smart contract deployment is only one of many ways that the Flow ecosystem is growing and enabling opportunities. For example, Flow's [$750M Ecosystem Fund](https://flow.com/ecosystemsupport) is the largest joint commitment made towards any blockchain ecosystem. Join a vibrant and growing community building the future of Web3. 
@@ -81,8 +83,8 @@ On **June 15th**, Flow mainnet will undergo a scheduled spork. Follow the regula
 - [Spork Process](https://docs.onflow.org/node-operation/spork/) 
 
 
-### I am not a developer, but I hold FLOW token
+### I am not a developer, but I am interested in Flow
 
-No action is required from you. This is a critical protocol milestone for Flow's journey towards making Flow [increasingly decentralized](https://www.notboring.co/p/flow-the-normie-blockchain?s=r). 
+Good news! No action is required from you. You should know that this is a critical protocol milestone for Flow's journey towards making Flow [increasingly decentralized](https://www.notboring.co/p/flow-the-normie-blockchain?s=r). See the "Why is this important" section above for more information.
 
 
