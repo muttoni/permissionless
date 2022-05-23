@@ -48,12 +48,6 @@ There may be actions required - this depends if you have already deployed a smar
 - [ ] Mark June 8th, 2022 as an important date on your calendar: this is when breaking changes will be deployed to **testnet**
 - [ ] Mark June 15th, 2022 as an important date on your calendar: this is when breaking changes will be deployed to **mainnet**
 
-**Quick links**
-- [Overall Permissionless Smart Contract Status](https://forum.onflow.org/t/permissionless-contract-deployment-progress/2981)
-- [Secure Cadence Breaking Changes](https://forum.onflow.org/t/breaking-changes-coming-with-secure-cadence-release/3052)
-- [Secure Cadence Code Analyzer](https://forum.onflow.org/t/secure-cadence-breaking-changes-analyzer/3059)
-- [How to check your code for breaking changes (Video)](https://youtu.be/58poY8ZiHoo)
-
 #### Time-sensitive actions
 
 | Date     | Action                                                                                                                      |
@@ -62,6 +56,13 @@ There may be actions required - this depends if you have already deployed a smar
 | Jun 8-14 | Test your contracts extensively on **TESTNET**                                                                              |
 | Jun 15   | Upgrade your updated contracts on **MAINNET**                                                                               |
 | Jun 15+  | Monitor activity on **MAINNET** and let the team know if there is unexpected activity on [Discord](https://discord.gg/flow) |
+
+
+**Quick links**
+- [Overall Permissionless Smart Contract Status](https://forum.onflow.org/t/permissionless-contract-deployment-progress/2981)
+- [Secure Cadence Breaking Changes](https://forum.onflow.org/t/breaking-changes-coming-with-secure-cadence-release/3052)
+- [Secure Cadence Code Analyzer](https://forum.onflow.org/t/secure-cadence-breaking-changes-analyzer/3059)
+- [How to check your code for breaking changes (Video)](https://youtu.be/58poY8ZiHoo)
 
 #### Recommended actions
 
