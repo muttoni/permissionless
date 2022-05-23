@@ -1,8 +1,19 @@
 # Road to Permissionless
 
-Flow is on track to enable permissionless smart contract deployment **this summer**. Permissionless smart contract deployment is a critical milestone in Flow’s journey of increasing decentralization over time. 
+Flow is on track to enable permissionless smart contract deployment **this summer**. Permissionless smart contract deployment is a critical milestone in Flow’s journey of [increasing decentralization over time](https://www.notboring.co/p/flow-the-normie-blockchain?s=r). 
 
-## Timelines
+## Why is it important?
+
+### More builders
+Developers building on Flow will be able to autonomously deploy and upgrade their smart contracts. This will bring about a new wave of developers who have been on the sidelines, waiting for this milestone. This means more applications and services on Flow, as well as composed on top of existing applications, enriching the Flow ecosystem. 
+
+### More security
+To enable this important milestone, [Cadence](https://docs.onflow.org/cadence/), Flow's native smart contract programming language, has been undergoing rigorous audits and improvements. With the release of Secure Cadence (see below), smart contracts will become even safer.
+
+### More opportunities
+Permissionless smart contract deployment is only one of many ways that the Flow ecosystem is growing and enabling opportunities. For example, Flow's [$750M Ecosystem Fund](https://flow.com/ecosystemsupport) is the largest joint commitment made towards any blockchain ecosystem. Join a vibrant and growing community building the future of Web3. 
+
+## Timelines for Permissionless Smart Contract Deployment
 
 ### 00:00:00 - countdown timer here
 
@@ -21,16 +32,19 @@ Flow is on track to enable permissionless smart contract deployment **this summe
 
 Official Forum announcement with updates: https://forum.onflow.org/t/permissionless-contract-deployment-progress/2981
 
-## Developers
+# How does this affect me? 
 
-Some timelines above may require action from you. This depends if you have already deployed a smart contract on testnet or mainnet, or not. 
+## I am a _developer_
 
-### If you have already deployed a smart contract on testnet or mainnet
+There may be actions required - this depends if you have already deployed a smart contract on testnet or mainnet.
+
+### I already deployed a smart contract on _testnet_ and/or _mainnet_
 
 #### Immediate actions 
-- Review the upcoming changes and test your contracts for breaking changes: [here](https://forum.onflow.org/t/breaking-changes-coming-with-secure-cadence-release/3052)
-- Mark June 8th, 2022 as an important date on your calendar: this is when breaking changes will be deployed to **testnet**
-- Mark June 15th, 2022 as an important date on your calendar: this is when breaking changes will be deployed to **mainnet**
+
+- [ ] Review the upcoming changes and test your contracts for breaking changes: [here](https://forum.onflow.org/t/breaking-changes-coming-with-secure-cadence-release/3052)
+- [ ] Mark June 8th, 2022 as an important date on your calendar: this is when breaking changes will be deployed to **testnet**
+- [ ] Mark June 15th, 2022 as an important date on your calendar: this is when breaking changes will be deployed to **mainnet**
 
 **Quick links**
 - [Overall Permissionless Smart Contract Status](https://forum.onflow.org/t/permissionless-contract-deployment-progress/2981)
@@ -49,8 +63,8 @@ Some timelines above may require action from you. This depends if you have alrea
 
 #### Recommended actions
 
-- Download and use the Secure Cadence breaking changes analyzer: 
-- Participate in the Secure Cadence Bug Bounty: https://forum.onflow.org/t/help-us-test-secure-cadence-release-candidate/3112
+- [ ] Download and use the Secure Cadence breaking changes analyzer: 
+- [ ] Participate in the Secure Cadence Bug Bounty: https://forum.onflow.org/t/help-us-test-secure-cadence-release-candidate/3112
 
 
 ### If you have not deployed a smart contract on testnet or mainnet
@@ -58,15 +72,17 @@ Some timelines above may require action from you. This depends if you have alrea
 Then no immediate or time-sensitive action is required from you. Just make sure you are aware of the changes that are coming to Cadence and of the critical dates where these breaking changes will be live (June 8th on testnet, June 15th on mainnet). More on that [here](https://forum.onflow.org/t/breaking-changes-coming-with-secure-cadence-release/3052)
 
 
+### I am a _node operator_
+
+On **June 15th**, Flow mainnet will undergo a scheduled spork. Follow the regular Spork process as outlined [here](https://docs.onflow.org/node-operation/spork/). Please ensure a timely upgrade and tight communication with the rest of the network.
+
+**Quick links**
+- [Spork Schedule](https://docs.onflow.org/node-operation/upcoming-sporks/)
+- [Spork Process](https://docs.onflow.org/node-operation/spork/) 
 
 
+### I am not a developer, but I hold FLOW token
 
-### Node Operators
-
-### 
-
-### Token Holders
-
-
+No action is required from you. This is a critical protocol milestone for Flow's journey towards making Flow [increasingly decentralized](https://www.notboring.co/p/flow-the-normie-blockchain?s=r). 
 
 
